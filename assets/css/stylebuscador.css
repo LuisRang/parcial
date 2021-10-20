@@ -1,0 +1,14 @@
+body{
+    background-color:lightslategray;
+}
+
+.infomovie {
+     width: 25%;
+    height: auto;
+    margin: 2rem;
+
+}
+
+footer{
+    background-color: honeydew;
+}
